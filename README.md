@@ -13,7 +13,7 @@ Full-stack dev from India who's basically a professional bug creator (and occasi
 
 **Languages:** HTML, CSS, JavaScript, C++, TypeScript
 
-**Databases:** MySQL, MongoDB, Firebase (NoSQL? More like NoProblems... jk, lots of problems)
+**Databases:** MySQL, MongoDB, PostgreSQL
 
 ---
 
